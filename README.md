@@ -6,8 +6,8 @@ Write a method that accepts a list of stores (represented as rough x and y locat
 
  
 Language options:
-Python
-Kotlin
+Python,
+Kotlin,
 TypeScript
  
 
