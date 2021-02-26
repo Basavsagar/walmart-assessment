@@ -1,9 +1,9 @@
+# walmart-assessment
+
 # Steps to Run
 1. change the input.json file with the input you want to test the code with
 2. Run UnitTest.py
 3. you should be able to see the output in the console with the format: "Store with location xyz has been visited n times"
-
-# walmart-assessment
 
 # Objective:
 
